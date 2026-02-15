@@ -1,4 +1,4 @@
-# Discord Auto-Kick Bot v3.0
+# Discord Verification Guard Bot v3.0
 Discord bot that automatically kicks members who don't verify within a set time period.
 
 ## 🚀 Quick Start
